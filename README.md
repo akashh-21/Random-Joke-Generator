@@ -65,10 +65,7 @@ After clicking “Punchline”
 
 😂 Punchline: Because they make up everything!
 
-🖥️ Screenshot
 
-
-( image.png )
 
 🌐 Live Demo
 
