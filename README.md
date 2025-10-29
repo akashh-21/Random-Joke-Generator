@@ -36,7 +36,7 @@ It’s a simple yet powerful example of working with **asynchronous JavaScript**
 
 ---
 ScreenShot:
-screenshot:[image.png]
+[image.png]
 ---
 ## 🚀 How It Works  
 
