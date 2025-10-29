@@ -68,7 +68,7 @@ After clicking “Punchline”
 🖥️ Screenshot
 
 
-[image.png]
+( image.png )
 
 🌐 Live Demo
 
